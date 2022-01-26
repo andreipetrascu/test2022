@@ -3,4 +3,9 @@ public class Start {
         System.out.println("First text here");
         // FIRST COMMENT ON MASTER
     }
+
+    public void getPrices(){
+        // code
+    }
+
 }
