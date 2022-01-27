@@ -3,6 +3,6 @@ public class Start {
         System.out.println("First text here");
         // FIRST COMMENT ON MASTER
         // Master - Andrei Petrascu
-        // Master - Dumitrescu
+        // Master - Ion
     }
 }
