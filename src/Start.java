@@ -5,4 +5,9 @@ public class Start {
         // Master - Andrei Petrascu
         // Master - Ion
     }
+
+    public void getPrices(){
+        // code
+    }
+
 }
